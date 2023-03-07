@@ -1,0 +1,94 @@
+/* content one */
+
+
+/* esta clase es donde se encuentras las 4 tarjetas pequeñas */
+.min-cards{
+    padding: 12px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+}
+
+.min-card{
+    border-radius: 8px;
+    width: auto;
+    padding: 14px;
+    margin-top: 8px;
+    margin-right: 4px;
+    background-color: rgb(167, 167, 167);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.min-card i{
+    margin-right: 6px;
+}
+
+/* content two - left */
+
+.present-left{
+    padding: 14px;
+}
+
+.contenedor{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.text-cont-two{
+    color: #202223;
+    margin-bottom: 18px;
+}
+
+.relleno{
+    margin-top: 20px;
+}
+
+
+
+
+/* content two - right */
+
+.content-two{
+    background-color: rgb(255, 238, 238);
+}
+
+.min-text{
+    margin-top: 8px;
+    width: 80%;
+}
+
+.icon{
+    margin-top: 8px;
+    margin-right: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.money{
+    color: green;
+}
+
+.heart{
+    color: red;
+}
+
+.puzzle{
+    color: rgb(11, 11, 219);
+}
+
+.present-right{
+    padding: 22px;
+}
+
+.content-right{
+    margin-left: 6px;
+    margin-top: 8px;
+    background-color: rgb(255, 255, 255);
+    padding: 12px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 5px, rgb(51, 51, 51) 4px 4px 0px 0px;
+
+}
+
+
+
